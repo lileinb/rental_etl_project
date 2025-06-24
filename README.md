@@ -21,3 +21,7 @@ rental_etl_project/
 ├── docs/               # 架构图、总结、复盘文档
 ├── README.md
 ├── requirements.txt
+
+
+# june 24 2025
+- 今天主要完成的任务是房价和房屋数目的可视化，争对房价字段的数据清理筛除极端值，同时熟练掌握git，和使用github进行部署
